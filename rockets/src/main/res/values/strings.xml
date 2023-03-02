@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="image_of">Image of %1$s</string>
+    <string name="open_rocket_detail">open %1$s rocket detail</string>
+    <string name="rocket_list">Rocket List</string>
+    <string name="find_rocket">Find rocket by name</string>
+    <string name="empty_search">There\'s no rocket by that name</string>
+    <string name="no_rockets">That\'s weight, it looks like SpaceX no longer have any rockets</string>
+</resources>
