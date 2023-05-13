@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.astro.rocketapp.chathil'
+    namespace 'com.chathil.rocketes'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.astro.rocketapp.chathil"
+        applicationId "com.chathil.rocketes"
         minSdk 21
         targetSdk 33
         versionCode 1

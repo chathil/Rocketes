@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace 'com.astro.rocketapp.rocket'
+    namespace 'com.chathil.rocketes.rocket'
     compileSdk 33
 
     defaultConfig {
